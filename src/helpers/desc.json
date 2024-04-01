@@ -1,0 +1,34 @@
+{
+    "autor": "Julian Rubio",
+    "username": "@jrubio",
+    "im": "web developer",
+    "homepage": "julianrubio.com",
+    "repository": {
+        "type": "open-source",
+        "url": "github.com/juliangrubio"
+    },
+    "skills": [
+        "html",
+        "css",
+        "js",
+        "mongodb",
+        "expressjs",
+        "reactjs",
+        "nodejs",
+        "git",
+        "heroku"
+    ],
+    "dependencies": [
+        "styled-components",
+        "redux",
+        "grid",
+        "flexbox"
+    ],
+    "devDependencies": {
+        "music": "usually",
+        "internet": "50mbps",
+        "so": "linux",
+        "editor": "vscode"
+    }
+
+}

@@ -1,0 +1,32 @@
+.goup {
+    display: flex;
+    background-color: rgb(212, 0, 255);
+    color: #fff;
+    border-radius: 100%;
+    bottom: 25px;
+    font-size: 30px;
+    padding: 20px 20px 10px 20px;
+    right: 25px;
+    z-index: 999;
+}
+
+.scrolling {
+    position: fixed;
+    transition: opacity .5s ease-in;
+}
+
+.fixie {
+    position: absolute;
+    opacity: 0;
+}
+
+@media only screen and (max-width: 960px) {
+    /* .goup {
+        right: 5px;
+        padding: 15px 15px 7px 15px;
+
+    } */
+    .goup {
+        display: none;
+    }
+}
